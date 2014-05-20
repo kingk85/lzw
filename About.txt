@@ -1,0 +1,4 @@
+LZW in C++ by Ugo Cirmignani.
+Home Page: http://implementazione-lzw-c-ugo-cirmignani.oldwildweb.com/
+
+

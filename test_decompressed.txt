@@ -1,0 +1,16 @@
+This is a test!
+This file will be compressed and decompressed!
+
+This is a test!
+This file will be compressed and decompressed!
+
+This is a test!
+This file will be compressed and decompressed!
+
+This is a test!
+This file will be compressed and decompressed!
+
+This is a test!
+This file will be compressed and decompressed!
+
+
